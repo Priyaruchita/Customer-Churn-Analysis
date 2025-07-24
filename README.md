@@ -87,5 +87,5 @@ Steps:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/customer-churn-prediction.git
-   cd customer-churn-prediction
+   git clone https://github.com/Priyaruchita/Customer-Churn-Analysis.git
+   cd Customer-Churn-Analysis
