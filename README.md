@@ -6,7 +6,7 @@ A machine learning project to analyze and predict customer churn for a telecom c
 
 ##  Project Structure
 
-- `customer_churn_analysis.ipynb` – Jupyter/Colab notebook with data cleaning, EDA, and model building.
+- `Customer_Churn_Prediction.ipynb` – Jupyter/Colab notebook with data cleaning, EDA, and model building.
 - `customer_churn_analysis.pdf` – Exported version of the notebook for quick reference.
 - `README.md` – Project overview and documentation.
 
